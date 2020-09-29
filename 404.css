@@ -1,0 +1,27 @@
+/* 
+    font-family: 'IM Fell Double Pica', serif;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-family: 'Special Elite', cursive;
+    font-family: 'Quattrocento', serif;
+ */
+
+.titre
+{
+    font-family: 'Special Elite', cursive;
+    font-size: 50px;
+    background-color: darkseagreen;
+}
+.intro
+{
+    font-family: 'Quattrocento', serif;
+
+}
+.outro
+{
+    font-family: 'IM Fell Double Pica', serif;
+
+}
+img
+{
+    background-color: darkslateblue;
+}

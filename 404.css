@@ -16,15 +16,9 @@ body
 {
     font-size: 32px;
 }
-img
-{
-    background-color: darkslateblue;
-}
 .link
 {
     padding-top: 15px;
     display: flex;
     justify-content: center;
-    /* background-color: lightcoral; */
-    /* text-align: center; */
 }

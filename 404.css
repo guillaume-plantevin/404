@@ -1,27 +1,30 @@
-/* 
-    font-family: 'IM Fell Double Pica', serif;
-    font-family: 'Montserrat Subrayada', sans-serif;
+body
+{
+    padding: 0px;
+    margin: 30px;
     font-family: 'Special Elite', cursive;
-    font-family: 'Quattrocento', serif;
- */
-
+    background: url(images/typewriter1.2.jpg) no-repeat center center fixed;
+    background-size: cover
+}
 .titre
 {
-    font-family: 'Special Elite', cursive;
+    margin-top: 30px;
+    text-align: center;
     font-size: 50px;
-    background-color: darkseagreen;
 }
-.intro
+.txt
 {
-    font-family: 'Quattrocento', serif;
-
-}
-.outro
-{
-    font-family: 'IM Fell Double Pica', serif;
-
+    font-size: 32px;
 }
 img
 {
     background-color: darkslateblue;
+}
+.link
+{
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    /* background-color: lightcoral; */
+    /* text-align: center; */
 }
